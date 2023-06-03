@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Gilbert Matos!
-- 👀 I’m interested in front end web development, programming and game development.
-- 🌱 I’m currently learning Next.js, more about Javascript & also trying out Unity to further expand my game dev horizons!
+- 👋 Hi, I’m Gilbert Matos, a front end react developer who specializes on Nextjs and Reactjs
+-Actively looking for work, freelance temporary or permanent.
 - 💞️ I’m looking to collaborate on game jams & exchange knowledge with others!
 - 📫 How to reach me:
 Tw: @punisherx6

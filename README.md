@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gilbert Matos, a front end react developer who specializes on CSS/HTML/Javascript, Nextjs and Reactjs
+- 👋 Hi, I’m Gilbert Matos, a front end react developer who specializes in CSS/HTML/Javascript, Nextjs and Reactjs
 -Actively looking for work, freelance temporary or permanent.
 - 💞️ I’m looking to collaborate on game jams & exchange knowledge with others!
 - 📫 How to reach me:

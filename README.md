@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gilbert Matos, a front end react developer who specializes in CSS/HTML/Javascript, Nextjs and Reactjs!
+- 👋 Hi, I’m Gilbert Matos, a front end web developer who specializes in CSS/HTML/Javascript, Nextjs and Reactjs!
 - You can catch me on some random subreddits helping people with game dev questions regarding GameMaker.
 - Building projects that solve problems to my day to day usage of software or chores is one of my guilty pleasures.
 - I am actively looking for work, freelance, temporary, but most preferably, full time. If you like what you see here, let's chat! 
@@ -6,7 +6,7 @@
 - I love contributing to open source projects I actively follow or use.
 - 💞️ I’m looking to collaborate on game jams & exchange knowledge with others!
 - 📫 How to reach me:
-Tw: @punisherx6
+Twitter: @punisherx6
 
 <!---
 treblig-punisher/treblig-punisher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

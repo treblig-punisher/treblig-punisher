@@ -8,7 +8,7 @@
 - 📫 How to reach me:
 Twitter: @punisherx6
 
-Resume: https://docs.google.com/document/d/18ZZKSZDXKbK0cblOVwDQZ60kTEW-0S0-foAwtaWxgfE/edit?usp=sharing
+- Resume: https://docs.google.com/document/d/18ZZKSZDXKbK0cblOVwDQZ60kTEW-0S0-foAwtaWxgfE/edit?usp=sharing
 <!---
 treblig-punisher/treblig-punisher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

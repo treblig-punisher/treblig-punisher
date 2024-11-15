@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gilbert Matos, a Full Stack web developer who specializes in CSS/HTML/Javascript, Nodejs, MongoDB, & Nextjs!
+- 👋 Hi, I’m Gilbert Matos, a Full Stack software developer who specializes in CSS/HTML/Javascript, Nodejs, MongoDB, & Nextjs!
 - Building projects that solve problems to my day to day usage of software or chores is one of my guilty pleasures.
 - You can catch me on some random subreddits helping people with game dev questions regarding GameMaker.
 - I am actively looking for work, freelance, temporary, but most preferably, full time. If you like what you see here, let's chat! 
